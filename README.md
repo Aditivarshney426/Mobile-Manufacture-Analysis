@@ -1,4 +1,4 @@
-📱 Mobile Manufacturing Data Analysis using SQL
+##📱 Mobile Manufacturing Data Analysis using SQL
 
 📌 Project Overview
 This project analyzes mobile manufacturing and sales data to uncover trends in customer purchases, pricing, and brand performance.
